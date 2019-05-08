@@ -14,7 +14,7 @@ import android.widget.Button;
 
 import com.silead.manager.FingerManager;
 import com.silead.manager.FingerVersion;
-
+git stssssss
 public class FingerAboutActivity extends PreferenceActivity implements Preference.OnPreferenceChangeListener, View.OnClickListener {
     private FingerManager mFingerManager;
 
