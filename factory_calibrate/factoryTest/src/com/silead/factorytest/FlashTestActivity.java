@@ -10,7 +10,7 @@ import android.os.Bundle;
 
 import com.silead.manager.FingerManager;
 import com.silead.manager.FingerResult;
-
+test git command
 public class FlashTestActivity extends BaseActivity implements View.OnClickListener {
     private static final String FILE_TAG = "FlashTest";
     private FingerManager mFingerManager;
